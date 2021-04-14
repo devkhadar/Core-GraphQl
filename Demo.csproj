@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>66a72e40-a19f-47b7-a9eb-9f4542bc7aaa</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HotChocolate.AspNetCore" Version="11.1.0" />
+    <PackageReference Include="HotChocolate.AspNetCore.Playground" Version="10.5.5" />
+  </ItemGroup>
+
+</Project>
